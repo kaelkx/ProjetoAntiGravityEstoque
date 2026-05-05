@@ -1,21 +1,43 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 Projeto AntiGravity Estoque
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sistema de controle de estoque desenvolvido com foco em simplicidade, eficiência e organização de inventário.
 
-Currently, two official plugins are available:
+## 📦 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Cadastro de produtos  
+- Controle de entradas e saídas  
+- Gestão de estoque em tempo real  
+- Organização de inventário  
 
-## React Compiler
+## 🛠️ Tecnologias utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React  
+- Vite  
+- JavaScript  
+- ESLint  
 
-## Expanding the ESLint configuration
+## ⚡ Ambiente de desenvolvimento
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# ProjetoAntiGravityEstoque
-Projeto de controle de estoque desenvolvido no AntiGravity, focado no gerenciamento de produtos, entradas, saídas e organização de inventário de forma simples e eficiente.
->>>>>>> b16fa1555043e60b440a04527be267d22ec8a11f
+Este projeto utiliza o Vite para um ambiente rápido com HMR (Hot Module Replacement).
+
+Plugins recomendados:
+- `@vitejs/plugin-react`
+- `@vitejs/plugin-react-swc`
+
+## 📁 Estrutura e boas práticas
+
+- Código organizado e de fácil manutenção  
+- Lint configurado com ESLint  
+- Preparado para expansão (TypeScript, melhorias futuras)
+
+## 🔐 Observações
+
+Este projeto foi revisado para não conter dados sensíveis ou vínculos com ambientes corporativos.
+
+## 📌 Objetivo
+
+Facilitar o gerenciamento de estoque de forma prática, podendo ser adaptado para diferentes tipos de negócio.
+
+---
+
+💡 *Projeto em evolução — melhorias e novas funcionalidades podem ser adicionadas futuramente.*
