@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Projeto AntiGravity Estoque
 
 Sistema de controle de estoque desenvolvido com foco em simplicidade, eficiência e organização de inventário.
@@ -41,3 +42,8 @@ Facilitar o gerenciamento de estoque de forma prática, podendo ser adaptado par
 ---
 
 💡 *Projeto em evolução — melhorias e novas funcionalidades podem ser adicionadas futuramente.*
+=======
+# Projeto Gestão de Ativos
+
+Projeto de controle de estoque e gestão corporativa, focado no gerenciamento de produtos, entradas, saídas e organização de inventário de forma simples e eficiente.
+>>>>>>> 78091dc (Atualização de segurança e sanitização do projeto)
