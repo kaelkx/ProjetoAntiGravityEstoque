@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <!-- Right Face -->
+  <path d="M128 145L232 85V205L128 265V145Z" fill="#0066CC"/>
+  <!-- Left Face -->
+  <path d="M24 85L128 145V265L24 205V85Z" fill="#004C99"/>
+  <!-- Top Face -->
+  <path d="M128 25L232 85L128 145L24 85L128 25Z" fill="#3399FF"/>
+  <!-- Center Cutout to match the user's logo style -->
+  <polygon points="128,145 100,128 100,162" fill="#FFFFFF"/>
+</svg>
